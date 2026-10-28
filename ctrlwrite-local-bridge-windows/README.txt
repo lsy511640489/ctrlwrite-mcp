@@ -1,0 +1,2 @@
+CtrlWrite Windows local service
+Requires Node.js 22 or newer. Double-click Start-CtrlWrite.cmd, enter your website origin, and keep the window open. Local workspace files are available to that website without pairing. Copy the pairing token into website Settings > Data only to enable MCP. AI keys are saved in the browser. Config: %USERPROFILE%\ctrlwrite_config\config.json. No npm install is needed in this folder.
